@@ -19,16 +19,16 @@ Experimental project to create nice game ui/ux using phaser3.
   - Some animated text
   
 
-  ### Requirements
+### Requirements
 
-  We need [Node.js](https://nodejs.org) to install and run scripts.
+We need [Node.js](https://nodejs.org) to install and run scripts.
 
-  ### Install and run
+### Install and run
 
-  Run next commands in your terminal:
+Run next commands in your terminal:
 
-  | Command | Description |
-  |---------|-------------|
-  | `npm install` | Install dependencies and launch browser with examples.|
-  | `npm start` | Launch browser to show the examples. <br> Press `Ctrl + c` to kill **http-server** process. |
-  =======
+| Command | Description |
+|---------|-------------|
+| `npm install` | Install dependencies and launch browser with examples.|
+| `npm start` | Launch browser to show the examples. <br> Press `Ctrl + c` to kill **http-server** process. |
+=======
